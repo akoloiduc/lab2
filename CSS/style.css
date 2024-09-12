@@ -1,0 +1,33 @@
+body{
+    background-color:#504c3df0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.heading h1{
+    color:#94bdf3;
+}
+.highlight{
+    color: cornflowerblue; font-weight: bold; font-size: 18px;
+}
+.happy{
+    width:50% ;
+}
+.sad{
+    width: 50%;
+}
+.happyimg{
+    width: 80%;height: auto;
+}
+.sadimg{
+    width: 80%; height: auto;
+}
+.mymoods{
+    display: flex;
+}
+ol li span{
+    color: tomato;
+}
+li{
+    font-size: 12px;
+    padding: 2px;
+}
